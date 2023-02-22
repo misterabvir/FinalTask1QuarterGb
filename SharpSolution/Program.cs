@@ -46,7 +46,7 @@ string[][] GetOutputArrays(string[][] data)
     return outputs;   
 }
 
-//красиво печатаем в консоль 
+//красиво печатаем формируем строки
 string GetResult(string[][] first, string[][] second)
 {
     string result = string.Empty;   
